@@ -10,7 +10,7 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[redis-stream-queue](https://github.com/GKunLi/redis-stream-queue)|使用Redis Stream作为消息队列，消费者多实例可用且不需要改配置文件|`2⭐`|
+|[redis-stream-queue](https://github.com/GKunLi/redis-stream-queue)|使用Redis Stream作为消息队列，消费者多实例可用且不需要改配置文件|`3⭐`|
 |[keep-teams-status](https://github.com/GKunLi/keep-teams-status)|保持Teams在线状态|`0⭐`|
 |[solidity-learning](https://github.com/GKunLi/solidity-learning)|智能合约学习|`0⭐`|
 
@@ -23,4 +23,4 @@
 
 
 
-*Last updated on: 2025-10-17 23:09:01*
+*Last updated on: 2025-10-19 20:27:58*
